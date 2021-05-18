@@ -1,2 +1,1 @@
-# gitcurso
-curso de git
+modifique el readme
